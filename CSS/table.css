@@ -1,0 +1,27 @@
+.table {
+    border-collapse: collapse;
+    border-color: #93a1a1;
+    border-radius: 10px;
+    width: 100%;
+    margin: auto;
+    box-shadow: 6px 5px 5px 0px rgba(0, 0, 0, 0.37);
+}
+
+.tableRow:nth-child(even) {
+    background: #405f60;
+}
+
+.tableRow:hover {
+    background: #314343;
+}
+
+.tableHeader {
+    background-color: #314343;
+    color: white;
+    font-weight: normal;
+}
+
+.tableCell {
+    border: 1px solid #2d2d2d;
+    padding: 20px;
+}

@@ -1,0 +1,27 @@
+.menu__list {
+    list-style: none;
+    padding: 5px;
+    background-color: darkgreen;
+    border-radius: 10px;
+    box-shadow: 6px 5px 5px 0px rgba(0, 0, 0, 0.37);
+}
+
+.menu__item {
+
+    list-style: none;
+    display: inline;
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+.menu__item:hover {
+    color: rgb(0, 0, 0);
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.menu__link {
+    display: inline;
+    text-decoration: none;
+    color: #ffffff;
+}
