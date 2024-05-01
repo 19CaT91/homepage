@@ -3,4 +3,12 @@
 ## Demo 
 https://19cat91.github.io/homepage/
 
-## Opis
+## Discription
+- This page is about myself and my hobby.
+- Page was created for course youcode.pl
+Enjoy
+
+## Specification
+- HTML
+- CSS
+- JavaScript
